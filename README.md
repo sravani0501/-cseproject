@@ -1,0 +1,2 @@
+# -cseproject
+clone,branches,commit
